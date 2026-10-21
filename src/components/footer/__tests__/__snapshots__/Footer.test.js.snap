@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the footer element 1`] = `
+<footer
+  class="footerMain"
+>
+  <div
+    class="footerInner"
+  >
+    <div
+      class="column"
+    />
+    <button
+      class="button tertiary small rounded capitalize"
+    >
+      footer.legal.terms
+    </button>
+    <button
+      class="button tertiary small rounded capitalize"
+    >
+      footer.legal.cookies
+    </button>
+    <button
+      class="button tertiary small rounded capitalize"
+    >
+      footer.legal.privacy
+    </button>
+  </div>
+</footer>
+`;
